@@ -5,8 +5,4 @@ A Python package for invoking VistA RPCs through the new style RPC Broker and RP
 
 By way of comparison, this provides for Python some of what MDWS provides for C#, Vistalink/OVID provides for Java and EWD provides for MUMPS.
 
-More information at:
-
-      http://www.osehra.org/group/web-data
-
 
