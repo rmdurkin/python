@@ -5,4 +5,4 @@ A Python package for invoking VistA RPCs through the new style RPC Broker and RP
 
 By way of comparison, this provides for Python some of what MDWS provides for C#, Vistalink/OVID provides for Java and EWD provides for MUMPS.
 
-FYI: the other way to access VistA remotely from Python is using the (ill-named?) [[https://github.com/OSEHRA/OSEHRA-Automated-Testing/blob/master/lib/vista/OSEHRAHelper.py|OSEHRAHelper.py]], now contained in the testing framework. This module let's you login and invoke VistA options only available through its roll and scroll - remember, RPCs only take you so far with VistA. 
+FYI: the other way to access VistA remotely from Python is using the (ill-named?) <a href="https://github.com/OSEHRA/OSEHRA-Automated-Testing/blob/master/lib/vista/OSEHRAHelper.py">OSEHRAHelper.py</a>, now contained in the testing framework. This module let's you login and invoke VistA options only available through its roll and scroll - remember, RPCs only take you so far with VistA. 
