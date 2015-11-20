@@ -46,7 +46,7 @@ class TheServer:
                     break
 
                 self.data = self.s.recv(buffer_size)
-               if len(self.data) == 0:
+                if len(self.data) == 0:
                     self.on_close()
                     break
                 else:
