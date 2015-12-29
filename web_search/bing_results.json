@@ -1,0 +1,62 @@
+{
+    "d": {
+        "__next": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python%20pandas'&$skip=5&$top=5",
+        "results": [
+            {
+                "Description": "Python Data Analysis Library\u00b6 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the ...",
+                "DisplayUrl": "pandas.pydata.org",
+                "ID": "956a3a4a-3883-407f-be4f-7e17a19c8395",
+                "Title": "Python Data Analysis Library \u2014 pandas: Python Data ...",
+                "Url": "http://pandas.pydata.org/",
+                "__metadata": {
+                    "type": "WebResult",
+                    "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python pandas'&$skip=0&$top=1"
+                }
+            },
+            {
+                "Description": "Stable Release\u00b6 Note: PyPI updates may lag the actual tagging of the release. You can find all of the official source and binaries hosted at the PyPI project page.",
+                "DisplayUrl": "pandas.pydata.org/getpandas.html",
+                "ID": "cd2fdc0b-5575-4a85-b574-7da8c27ce595",
+                "Title": "Get pandas! \u2014 pandas: Python Data Analysis Library",
+                "Url": "http://pandas.pydata.org/getpandas.html",
+                "__metadata": {
+                    "type": "WebResult",
+                    "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python pandas'&$skip=1&$top=1"
+                }
+            },
+            {
+                "Description": "What is it? pandas is an open source Python library for data analysis. Python has always been great for prepping and munging data, but it's never been great for ...",
+                "DisplayUrl": "www.gregreda.com/2013/10/26/intro-to-pandas-data-structures",
+                "ID": "38415491-ff68-497a-88c0-58f12c8de694",
+                "Title": "Intro to pandas data structures | Greg Reda",
+                "Url": "http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/",
+                "__metadata": {
+                    "type": "WebResult",
+                    "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python pandas'&$skip=2&$top=1"
+                }
+            },
+            {
+                "Description": "Powerful data structures for data analysis, time series,and statistics. pandas is a Python package providing fast, flexible, and expressive data structures designed ...",
+                "DisplayUrl": "https://pypi.python.org/pypi/pandas",
+                "ID": "0aa95c44-54e2-4afb-b4e0-11134795330d",
+                "Title": "pandas 0.17.1 : Python Package Index",
+                "Url": "https://pypi.python.org/pypi/pandas",
+                "__metadata": {
+                    "type": "WebResult",
+                    "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python pandas'&$skip=3&$top=1"
+                }
+            },
+            {
+                "Description": "Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations ...",
+                "DisplayUrl": "https://en.wikipedia.org/wiki/Pandas_(software)",
+                "ID": "8509c73c-ea91-4e21-bea0-7a614180ad8f",
+                "Title": "Pandas (software) - Wikipedia, the free encyclopedia",
+                "Url": "https://en.wikipedia.org/wiki/Pandas_%28software%29",
+                "__metadata": {
+                    "type": "WebResult",
+                    "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Web?Query='python pandas'&$skip=4&$top=1"
+                }
+            }
+        ]
+    }
+}

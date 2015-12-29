@@ -1,0 +1,89 @@
+{
+    "responseData": {
+        "cursor": {
+            "currentPageIndex": 0,
+            "estimatedResultCount": "105000",
+            "moreResultsUrl": "http://www.google.com/search?oe=utf8&ie=utf8&source=uds&start=0&hl=en&q=Python+pandas",
+            "pages": [
+                {
+                    "label": 1,
+                    "start": "0"
+                },
+                {
+                    "label": 2,
+                    "start": "4"
+                },
+                {
+                    "label": 3,
+                    "start": "8"
+                },
+                {
+                    "label": 4,
+                    "start": "12"
+                },
+                {
+                    "label": 5,
+                    "start": "16"
+                },
+                {
+                    "label": 6,
+                    "start": "20"
+                },
+                {
+                    "label": 7,
+                    "start": "24"
+                },
+                {
+                    "label": 8,
+                    "start": "28"
+                }
+            ],
+            "resultCount": "105,000",
+            "searchResultTime": "0.16"
+        },
+        "results": [
+            {
+                "GsearchResultClass": "GwebSearch",
+                "cacheUrl": "http://www.google.com/search?q=cache:-Jbq5K5WC9gJ:pandas.pydata.org",
+                "content": "<b>pandas</b> is an open source, BSD-licensed library providing high-performance, \neasy-to-use data structures and data analysis tools for the <b>Python</b> programming\u00a0...",
+                "title": "<b>Python</b> Data Analysis Library \u2014 <b>pandas</b>: <b>Python</b> Data Analysis Library",
+                "titleNoFormatting": "Python Data Analysis Library \u2014 pandas: Python Data Analysis Library",
+                "unescapedUrl": "http://pandas.pydata.org/",
+                "url": "http://pandas.pydata.org/",
+                "visibleUrl": "pandas.pydata.org"
+            },
+            {
+                "GsearchResultClass": "GwebSearch",
+                "cacheUrl": "http://www.google.com/search?q=cache:Xy5ywYKauGsJ:pandas.pydata.org",
+                "content": "Nov 21, 2015 <b>...</b> Contributing to pandas ... About the \npandas documentation\u00a0...",
+                "title": "<b>pandas</b>: powerful <b>Python</b> data analysis toolkit \u2014 <b>pandas</b> 0.17.1 <b>...</b>",
+                "titleNoFormatting": "pandas: powerful Python data analysis toolkit \u2014 pandas 0.17.1 ...",
+                "unescapedUrl": "http://pandas.pydata.org/pandas-docs/version/0.17.1/",
+                "url": "http://pandas.pydata.org/pandas-docs/version/0.17.1/",
+                "visibleUrl": "pandas.pydata.org"
+            },
+            {
+                "GsearchResultClass": "GwebSearch",
+                "cacheUrl": "http://www.google.com/search?q=cache:emuHranK9v4J:pandas.pydata.org",
+                "content": "This is a guide to many pandas tutorials, \ngeared mainly for new users.",
+                "title": "Tutorials \u2014 <b>pandas</b> 0.15.2 documentation",
+                "titleNoFormatting": "Tutorials \u2014 pandas 0.15.2 documentation",
+                "unescapedUrl": "http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html",
+                "url": "http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html",
+                "visibleUrl": "pandas.pydata.org"
+            },
+            {
+                "GsearchResultClass": "GwebSearch",
+                "cacheUrl": "http://www.google.com/search?q=cache:Ygt6gmGWi68J:en.wikipedia.org",
+                "content": "<b>Pandas</b> is a software library written for the <b>Python</b> programming language for \ndata manipulation and analysis. In particular, it offers data structures and\u00a0...",
+                "title": "<b>Pandas</b> (software) - Wikipedia, the free encyclopedia",
+                "titleNoFormatting": "Pandas (software) - Wikipedia, the free encyclopedia",
+                "unescapedUrl": "https://en.wikipedia.org/wiki/Pandas_(software)",
+                "url": "https://en.wikipedia.org/wiki/Pandas_(software)",
+                "visibleUrl": "en.wikipedia.org"
+            }
+        ]
+    },
+    "responseDetails": null,
+    "responseStatus": 200
+}
